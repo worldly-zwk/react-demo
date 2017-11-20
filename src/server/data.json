@@ -1,0 +1,124 @@
+{
+    "floor":[
+        {
+            "title": "易の家居",
+            "advertisement": "http://oss.citic-mall.com/5eeea375-4755-4716-937d-b1f72fd266bc",
+            "commoditys":[
+                {
+                    "name":"商品名称",
+                    "price": "169",
+                    "img":"http://oss.citic-mall.com/5922a752e4b0516ccb78b55c",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "378",
+                    "img":"http://oss.citic-mall.com/591ea0c2e4b006442be30678",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "109",
+                    "img":"http://oss.citic-mall.com/591e45d1d4c60e40d672f62c",
+                    "href":""
+                }
+            ]
+        },
+        {
+            "title": "美酒美食",
+            "advertisement": "http://oss.citic-mall.com/fa94c551-55c8-4640-9dfe-8ab26826e203",
+            "commoditys":[
+                {
+                    "name":"商品名称",
+                    "price": "358",
+                    "img":"http://oss.citic-mall.com/5900e653d4c69347cd2621ab",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "19.4",
+                    "img":"http://oss.citic-mall.com/a0b00086-54ac-458d-a178-be786ea97110",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "11.9",
+                    "img":"http://oss.citic-mall.com/edf34a2c-a0ac-4a31-a1de-a8ce2b86ff8f",
+                    "href":""
+                }
+            ]
+        },
+        {
+            "title": "个护美妆",
+            "advertisement": "http://oss.citic-mall.com/214ab340-5758-4e44-91c0-98a544f10639",
+            "commoditys":[
+                {
+                    "name":"商品名称",
+                    "price": "119",
+                    "img":"http://oss.citic-mall.com/6ea4eddc-1b92-47a1-aa7a-a7e431eaf258",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "720",
+                    "img":"http://oss.citic-mall.com/3c420627-cd4f-4cf3-9c2e-acbcc6c2721d",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "53",
+                    "img":"http://oss.citic-mall.com/591e431fd4c60ffe3c299823",
+                    "href":""
+                }
+            ]
+        },
+        {
+            "title": "智能电器",
+            "advertisement": "http://oss.citic-mall.com/b99628a5-22f5-4c26-a754-71f411ad02a0",
+            "commoditys":[
+                {
+                    "name":"商品名称",
+                    "price": "3899",
+                    "img":"http://oss.citic-mall.com/4e82812f-72cb-48d8-94a1-3979a4c497b4",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "359",
+                    "img":"http://oss.citic-mall.com/591566b4e4b02818b31dfa89",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "399",
+                    "img":"http://oss.citic-mall.com/f4738793-c225-40fc-b7a9-1173ce44074d",
+                    "href":""
+                }
+            ]
+        },
+        {
+            "title": "儿童天地",
+            "advertisement": "http://oss.citic-mall.com/b99628a5-22f5-4c26-a754-71f411ad02a0",
+            "commoditys":[
+                {
+                    "name":"商品名称",
+                    "price": "699",
+                    "img":"http://oss.citic-mall.com/59156996e4b02818b31dfac7",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "99",
+                    "img":"http://oss.citic-mall.com/591e459ad4c60e40d672f42e",
+                    "href":""
+                },
+                {
+                    "name":"商品名称",
+                    "price": "199",
+                    "img":"http://oss.citic-mall.com/5923aa16e4b02f38d0fd9fd0",
+                    "href":""
+                }
+            ]
+        }
+    ]
+}

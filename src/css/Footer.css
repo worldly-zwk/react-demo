@@ -1,0 +1,24 @@
+.footer{
+    height: .98rem;
+    background: #fff;
+}
+.footer ul{
+    display: flex;
+}
+.footer ul li{
+    flex: 1;
+}
+.footer ul li i{
+    display: block;
+    width: .48rem;
+    height: .48rem;
+    background: url(./images/2x/tab_icon_home_pressed@2x) no-repeat;
+    background-size: contain;
+}
+.footer ul li p{
+    font-family: 'PingFangSC-Rugular';
+    margin-top: .08rem;
+    font-size: .22rem;
+    color: #ff1150;
+    text-align: center;
+}

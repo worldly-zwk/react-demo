@@ -1,0 +1,34 @@
+.footer{
+    height: .98rem;
+    background: #fff;
+}
+.footer ul{
+    display: flex;
+}
+.footer ul li{
+    flex: 1;
+}
+.footer ul li i{
+    display: block;
+    width: .48rem;
+    height: .48rem;
+    margin: .1rem auto 0;
+    background: url(./images/2x/tab_icon_home_pressed@2x.png) no-repeat;
+    background-size: contain;
+}
+.footer ul li:nth-child(2) i{
+    background-image: url(./images/2x/tab_icon_classify_default@2x.png);
+}
+.footer ul li:nth-child(3) i{
+    background-image: url(./images/2x/tab_icon_cart_default@2x.png);
+}
+.footer ul li:last-child i{
+    background-image: url(./images/2x/tab_icon_user_default@2x.png);
+}
+.footer ul li p{
+    font-family: 'PingFangSC-Rugular';
+    margin-top: .08rem;
+    font-size: .22rem;
+    color: #999;
+    text-align: center;
+}

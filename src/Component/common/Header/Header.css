@@ -1,0 +1,35 @@
+.header{
+    height: .88rem;
+    padding: 0 .3rem;
+    display: flex;
+    align-items: center;
+    background: #fff;
+}
+.header .search{
+    padding-left: .82rem;
+    flex: 1;
+    background: #eee url(./images/2x/icon_search@2x.png) no-repeat .24rem center;
+    background-size: .44rem .44rem;
+    border-radius: .07rem;
+    height: .64rem;
+    line-height: .64rem;
+    font-size: .28rem;
+    color: #999;
+}
+.header .notice{
+    position: relative;
+    width: .48rem;
+    height: .48rem;
+    margin-left: .3rem;
+    background: url('./images/2x/icon_news@2x.png') no-repeat center center;
+    background-size: contain;
+}
+.header .notice span{
+    position: absolute;
+    top: -.15rem;
+    right: -.15rem;
+    background: #ff1150;
+    padding: .02rem .08rem;
+    color: #fff;
+    border-radius: .14rem;
+}
